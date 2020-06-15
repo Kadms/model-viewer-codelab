@@ -1,0 +1,134 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 465278,
+      "max": [
+        8.860397338867188,
+        12.645659446716309,
+        -2.661487579345703
+      ],
+      "min": [
+        -11.309175491333008,
+        -49.554439544677734,
+        -9.1423978805542
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 2657862,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 465278,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5121,
+      "count": 465278,
+      "type": "VEC3"
+    }
+  ],
+  "asset": {
+    "generator": "Agisoft Metashape",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5583336,
+      "byteOffset": 0,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10631448,
+      "byteOffset": 5583336,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3722224,
+      "byteOffset": 16214784,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1395836,
+      "byteOffset": 19937008,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Coral_data.bin",
+      "byteLength": 21332844
+    }
+  ],
+  "images": [
+    {
+      "uri": "Coral_img0.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 1,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "samplers": [
+    {
+      "minFilter": 9729
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
